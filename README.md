@@ -79,7 +79,10 @@ RAG chatbot using Chroma vector DB, sentence transformers, Google Classroom API,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radha-2005&theme=tokyonight&hide_border=true&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Radha-2005&theme=tokyonight&no-frame=true&row=1)
+![](https://github-profile-trophy.vercel.app/?username=Radha-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
-### 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Radha-2005&theme=tokyo-night)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Radha-2005&limit=5&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Radha-2005&icon=5&color=6)](https://visitcount.itsvg.in)
