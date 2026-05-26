@@ -70,6 +70,7 @@ RAG chatbot using Chroma vector DB, sentence transformers, Google Classroom API,
 🎓 Lila Poonawalla Foundation Scholar  
 🎓 Reliance Foundation Scholar  
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Radha-2005&theme=tokyonight&show_icons=true&hide_border=true)
 
@@ -77,8 +78,8 @@ RAG chatbot using Chroma vector DB, sentence transformers, Google Classroom API,
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radha-2005&theme=tokyonight&hide_border=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Radha-2005&limit=5&theme=tokyonight)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Radha-2005&theme=tokyonight&no-frame=true&row=1)
 
----
-![](https://visitcount.itsvg.in/api?id=Radha-2005&icon=5&color=6)
+### 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Radha-2005&theme=tokyo-night)
