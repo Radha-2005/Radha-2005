@@ -71,14 +71,14 @@ RAG chatbot using Chroma vector DB, sentence transformers, Google Classroom API,
 🎓 Reliance Foundation Scholar  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Radha-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Radha-2005&theme=tokyonight&show_icons=true&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Radha-2005&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Radha-2005&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radha-2005&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radha-2005&theme=tokyonight&hide_border=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Radha-2005&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Radha-2005&limit=5&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Radha-2005&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Radha-2005&icon=5&color=6)
