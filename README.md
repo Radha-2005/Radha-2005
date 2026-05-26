@@ -79,10 +79,11 @@ RAG chatbot using Chroma vector DB, sentence transformers, Google Classroom API,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radha-2005&theme=tokyonight&hide_border=true&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Radha-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-trophies.vercel.app/?username=Radha-2005&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Radha-2005&limit=5&theme=tokyonight)
+### 🔝 Featured Projects
+<a href="https://github.com/Radha-2005/FarmMatrix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radha-2005&repo=FarmMatrix&theme=tokyonight" />
+</a>
 
----
-[![](https://visitcount.itsvg.in/api?id=Radha-2005&icon=5&color=6)](https://visitcount.itsvg.in)
+
