@@ -82,11 +82,11 @@ RAG chatbot using Chroma vector DB, sentence transformers, Google Classroom API,
 ![](https://github-trophies.vercel.app/?username=Radha-2005&theme=tokyonight)
 
 ### 🔝 Featured Projects
-<a href="https://github.com/Radha-2005/FarmMatrix">
+<a href="https://github.com/krishnapunjabi708/Team-INORA-Morpheus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapunjabi708&repo=Team-INORA-Morpheus&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Radha-2005/YOUR_SECOND_PROJECT">
+<a href="https://github.com/Radha-2005/AI-Language-Learning-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radha-2005&repo=AI-Language-Learning-System&theme=tokyonight" />
 </a>
 
