@@ -1,7 +1,9 @@
 # Hi, I'm Radhika Kapale! ✨
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Developer" alt="Typing SVG" />
 </p>
+
 # 💫 About Me:
 
 🔭 I’m currently working on AI-powered applications, LLM-based systems, and mobile app development
@@ -98,10 +100,10 @@ RAG chatbot using Chroma vector DB, sentence transformers, Google Classroom API,
 
 ### 🔝 Featured Projects
 
-<a href="App_Logo.png">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapunjabi708&repo=Team-INORA-Morpheus&theme=tokyonight" />
+<a href="https://github.com/krishnapunjabi708/Team-INORA-Morpheus">
+  <img src="https://github.com/Radha-2005/Radha-2005/blob/a3e49f91ebde81257bf00a8fb1679985b9ecec33/App_Logo.png" />
 </a>
 
-<a href="language_learning.png">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Radha-2005&repo=AI-Language-Learning-System&theme=tokyonight" />
+<a href="https://github.com/Radha-2005/AI-Language-Learning-System">
+  <img src="https://github.com/Radha-2005/Radha-2005/blob/d7198b438cc5e5851ce286a0abaedc7b02c66626/language_learning.png" />
 </a>
