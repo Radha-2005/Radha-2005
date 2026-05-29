@@ -101,9 +101,9 @@ RAG chatbot using Chroma vector DB, sentence transformers, Google Classroom API,
 ### 🔝 Featured Projects
 
 <a href="https://github.com/krishnapunjabi708/Team-INORA-Morpheus">
-  <img src="https://github.com/Radha-2005/Radha-2005/blob/a3e49f91ebde81257bf00a8fb1679985b9ecec33/App_Logo.png" width="20" />
+  <img src="https://github.com/Radha-2005/Radha-2005/blob/a3e49f91ebde81257bf00a8fb1679985b9ecec33/App_Logo.png" width="70" />
 </a>
 
 <a href="https://github.com/Radha-2005/AI-Language-Learning-System">
-  <img src="https://github.com/Radha-2005/Radha-2005/blob/d7198b438cc5e5851ce286a0abaedc7b02c66626/language_learning.png" width="30" />
+  <img src="https://github.com/Radha-2005/Radha-2005/blob/d7198b438cc5e5851ce286a0abaedc7b02c66626/language_learning.png" width="60" />
 </a>
