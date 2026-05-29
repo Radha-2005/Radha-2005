@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Developer;ML+Engineer;GenAI+Builder" alt="Typing SVG" />
-</p>
-
 # Hi, I'm Radhika Kapale! ✨
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Developer" alt="Typing SVG" />
+</p>
 # 💫 About Me:
 
 🔭 I’m currently working on AI-powered applications, LLM-based systems, and mobile app development
